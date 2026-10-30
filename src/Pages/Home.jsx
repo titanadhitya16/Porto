@@ -140,11 +140,11 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Titan Adhitya Herlambang — Developer</title>
+        <title>Titan Adhitya Herlambang</title>
         <meta name="description" content="Website resmi Titan Adhitya Herlambang, Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
      <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://titanadh.my.id" />
-        <meta property="og:title" content="Titan Adhitya Herlambang - Developer" />
+        <meta property="og:title" content="Titan Adhitya Herlambang" />
      <meta property="og:description" content="Website resmi dan portofolio Titan Adhitya Herlambang, Developer." />
         <meta property="og:url" content="https://titanadh.my.id" />
         <meta property="og:type" content="website" />
