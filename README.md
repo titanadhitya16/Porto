@@ -298,5 +298,14 @@ npm run build
 
 Upload the contents of the `dist/` folder to your hosting provider.
 
----
+## Deploy to GitHub Pages
 
+The GitHub Actions workflow builds the site and publishes `dist/` when changes are pushed to `main`. Before deploying:
+
+1. Add `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` as repository Actions secrets.
+2. In **Settings → Pages**, set the build and deployment source to **GitHub Actions**.
+3. Push to `main`, or run the **Deploy to GitHub Pages** workflow manually.
+
+The custom domain is configured through `public/CNAME`.
+
+---
