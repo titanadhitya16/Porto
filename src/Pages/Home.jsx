@@ -24,7 +24,7 @@ const MainTitle = memo(() => (
       <span className="relative inline-block">
         <span className="absolute -inset-2 bg-gradient-to-r from-[#6366f1] to-[#a855f7] blur-2xl opacity-20"></span>
         <span className="relative bg-gradient-to-r from-white via-blue-100 to-purple-200 bg-clip-text text-transparent">
-          Frontend
+          Stack
         </span>
       </span>
       <br />
@@ -140,12 +140,12 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Titan Adhitya Herlambang — Frontend Web Developer</title>
-        <meta name="description" content="Website resmi Titan Adhitya Herlambang, Front-End Web Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
+        <title>Titan Adhitya Herlambang — Developer</title>
+        <meta name="description" content="Website resmi Titan Adhitya Herlambang, Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
      <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://titanadh.my.id" />
-        <meta property="og:title" content="Titan Adhitya Herlambang — Frontend Web Developer" />
-     <meta property="og:description" content="Website resmi dan portofolio Titan Adhitya Herlambang, Front-End Web Developer." />
+        <meta property="og:title" content="Titan Adhitya Herlambang - Developer" />
+     <meta property="og:description" content="Website resmi dan portofolio Titan Adhitya Herlambang, Developer." />
         <meta property="og:url" content="https://titanadh.my.id" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{`
@@ -153,7 +153,7 @@ const Home = () => {
             "@context": "https://schema.org",
             "@type": "Person",
             "name": "Titan Adhitya Herlambang",
-            "jobTitle": "Frontend Developer",
+            "jobTitle": "Developer",
             "url": "https://titanadh.my.id",
             "sameAs": [
               "https://github.com/titanadhitya16",
