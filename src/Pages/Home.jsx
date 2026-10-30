@@ -140,25 +140,25 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Eki Zulfar Rachman — Frontend Web Developer</title>
-        <meta name="description" content="Website resmi Eki Zulfar Rachman, Front-End Web Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
+        <title>Titan Adhitya Herlambang — Frontend Web Developer</title>
+        <meta name="description" content="Website resmi Titan Adhitya Herlambang, Front-End Web Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
      <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://ekizr.com" />
-        <meta property="og:title" content="Eki Zulfar Rachman — Frontend Web Developer" />
-     <meta property="og:description" content="Website resmi dan portofolio Eki Zulfar Rachman, Front-End Web Developer." />
-        <meta property="og:url" content="https://ekizr.com" />
+        <link rel="canonical" href="https://titanadh.my.id" />
+        <meta property="og:title" content="Titan Adhitya Herlambang — Frontend Web Developer" />
+     <meta property="og:description" content="Website resmi dan portofolio Titan Adhitya Herlambang, Front-End Web Developer." />
+        <meta property="og:url" content="https://titanadh.my.id" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{`
           {
             "@context": "https://schema.org",
             "@type": "Person",
-            "name": "Eki Zulfar Rachman",
+            "name": "Titan Adhitya Herlambang",
             "jobTitle": "Frontend Developer",
-            "url": "https://ekizr.com",
+            "url": "https://titanadh.my.id",
             "sameAs": [
-              "https://github.com/EkiZR",
-              "https://www.linkedin.com/in/ekizr/",
-              "https://www.instagram.com/ekizr_/"
+              "https://github.com/titanadhitya16",
+              "https://www.linkedin.com/in/titan-adhitya-herlambang-27a9a2293/",
+              "https://www.instagram.com/titanadhitya_/"
             ]
           }
         `}</script>
