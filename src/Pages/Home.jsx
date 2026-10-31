@@ -76,7 +76,7 @@ const SocialLink = memo(({ icon: Icon, link, label }) => (
 const TYPING_SPEED = 100;
 const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
-const WORDS = ["Ngdoing Mulu Jago Kaga", "Yaudah Gitu Aja"];
+const WORDS = ["Ngoding Mulu Jago Kaga", "Yaudah Gitu Aja"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/titanadhitya16", label: "GitHub Profile" },
