@@ -33,7 +33,7 @@ This project is built using modern web technologies:
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/EkiZR/Portofolio_V5.git
+git clone https://github.com/titanadhitya16/Porto.git
 cd Portofolio_V5
 npm install
 ```
